@@ -1,15 +1,10 @@
 package com.employee.employeeAPI.Service.EmployeeService;
-
-
-
 import com.employee.employeeAPI.Model.Employee;
-
 import com.employee.employeeAPI.Repository.EmployeeRepo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
@@ -132,6 +127,11 @@ public class EmployeeServiceImpl implements EmployeeService {
             emp.add(e.getName());
         }
         return emp;
+    }
+
+    public Long countEmployeeByDepartment(String departmentName){
+        List<Employee> employee  = employeeRepo.findByDepartmentName(departmentName);
+        return employee.stream().count();
     }
 
 }

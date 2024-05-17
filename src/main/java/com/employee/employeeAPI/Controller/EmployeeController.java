@@ -75,4 +75,9 @@ public class EmployeeController {
     public List<String> getEmployeeNameByProject(@PathVariable String projectName){
         return employeeService.getEmployeeNameByProject(projectName);
     }
+
+    @GetMapping("/numberOfEmployee/{departmentName}")
+    public Long numberOfEmployee(@PathVariable String departmentName){
+        return employeeService.countEmployeeByDepartment(departmentName);
+    }
 }

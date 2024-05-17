@@ -22,5 +22,6 @@ public interface EmployeeRepo extends JpaRepository<Employee,Long> {
 
     List<Employee> findByProjectsName(String projectName);
 
+    List<Employee> findByDepartmentName(String departmentName);
 
 }

@@ -1,5 +1,4 @@
 package com.employee.employeeAPI.Controller;
-
 import com.employee.employeeAPI.Model.Department;
 import com.employee.employeeAPI.Service.DepartmentService.DepartmentServiceImpl;
 import org.slf4j.Logger;
@@ -30,4 +29,5 @@ public class DepartmentController {
         logger.info("Department deleted");
         return "All Department Deleted";
     }
+
 }
