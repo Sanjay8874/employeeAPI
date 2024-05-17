@@ -1,0 +1,16 @@
+2024-05-17 07:52:41,876 INFO c.e.e.EmployeeApiApplication [main] Starting EmployeeApiApplication using Java 20 with PID 3164 (D:\Java_1\0_EmployeeAPI\employeeAPI\target\classes started by HP in D:\Java_1\0_EmployeeAPI\employeeAPI)
+2024-05-17 07:52:41,884 DEBUG c.e.e.EmployeeApiApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-05-17 07:52:41,886 INFO c.e.e.EmployeeApiApplication [main] The following 1 profile is active: "dev"
+2024-05-17 07:52:53,096 INFO c.e.e.EmployeeApiApplication [main] Started EmployeeApiApplication in 12.379 seconds (process running for 14.232)
+2024-05-17 08:02:31,070 INFO c.e.e.EmployeeApiApplication [main] Starting EmployeeApiApplication using Java 20 with PID 9824 (D:\Java_1\0_EmployeeAPI\employeeAPI\target\classes started by HP in D:\Java_1\0_EmployeeAPI\employeeAPI)
+2024-05-17 08:02:31,073 DEBUG c.e.e.EmployeeApiApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-05-17 08:02:31,076 INFO c.e.e.EmployeeApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-17 08:02:47,012 INFO c.e.e.EmployeeApiApplication [main] Started EmployeeApiApplication in 16.809 seconds (process running for 18.589)
+2024-05-17 10:18:59,996 INFO c.e.e.EmployeeApiApplication [main] Starting EmployeeApiApplication using Java 20 with PID 19244 (D:\Java_1\0_EmployeeAPI\employeeAPI\target\classes started by HP in D:\Java_1\0_EmployeeAPI\employeeAPI)
+2024-05-17 10:19:00,000 DEBUG c.e.e.EmployeeApiApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-05-17 10:19:00,001 INFO c.e.e.EmployeeApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-17 10:19:13,384 INFO c.e.e.EmployeeApiApplication [main] Started EmployeeApiApplication in 14.565 seconds (process running for 16.215)
+2024-05-17 10:34:53,730 INFO c.e.e.EmployeeApiApplication [main] Starting EmployeeApiApplication using Java 20 with PID 6672 (D:\Java_1\0_EmployeeAPI\employeeAPI\target\classes started by HP in D:\Java_1\0_EmployeeAPI\employeeAPI)
+2024-05-17 10:34:53,740 DEBUG c.e.e.EmployeeApiApplication [main] Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-05-17 10:34:53,742 INFO c.e.e.EmployeeApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-17 10:35:12,412 INFO c.e.e.EmployeeApiApplication [main] Started EmployeeApiApplication in 20.242 seconds (process running for 24.615)
